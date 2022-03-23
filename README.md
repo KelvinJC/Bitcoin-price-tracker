@@ -1,5 +1,5 @@
 # Bitcoin-price-tracker
-Interactive chart of bitcoin prices over 30 days
+An interactive chart of bitcoin prices over 30 days
 
 ## Introduction
 
